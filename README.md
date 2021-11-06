@@ -1,11 +1,11 @@
-<h1 align="center">SHADOW MUSIC</h1>
+<h1 align="center">EO MUSIC</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
 ### Available on telegram as [@Mr_Shadow_Robot](https://t.me/Mr_Shadow_robot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/66822dc08454b021fd2cf.png">
+  <img 
 </p>
 
 <h2> Features 🔥 </h2>
@@ -25,10 +25,7 @@
 ## 🚀 Deployment
 
 ### 💜 Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamOfShadow/ShadowMusic)
-
-### 💜 Railway
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Deshadeeth-Thisarana/ShadowMusic&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,LOG_CHANNEL,BOT_NAME,SUPPORT_GROUP,PROJECT_NAME,ARQ_API_KEY,ASSISTANT_NAME,BG_IMAGE,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/electro444/ShadowMusic)
 
 Get pyrogram (p)  `SESSION` from here:
 
