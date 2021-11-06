@@ -15,3 +15,7 @@
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 from ShadowMusic.config import ASSISTANT_NAME, PROJECT_NAME
+
+class Messages:
+    START_MSG = ""
+    HELP_MSG =  ""
